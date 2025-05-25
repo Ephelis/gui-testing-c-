@@ -1,0 +1,16 @@
+C:\Users\ligku\Documents\Coding\C#\gui testing\bin\Debug\net8.0-windows\gui testing.exe
+C:\Users\ligku\Documents\Coding\C#\gui testing\bin\Debug\net8.0-windows\gui testing.deps.json
+C:\Users\ligku\Documents\Coding\C#\gui testing\bin\Debug\net8.0-windows\gui testing.runtimeconfig.json
+C:\Users\ligku\Documents\Coding\C#\gui testing\bin\Debug\net8.0-windows\gui testing.dll
+C:\Users\ligku\Documents\Coding\C#\gui testing\bin\Debug\net8.0-windows\gui testing.pdb
+C:\Users\ligku\Documents\Coding\C#\gui testing\obj\Debug\net8.0-windows\gui_testing.Form1.resources
+C:\Users\ligku\Documents\Coding\C#\gui testing\obj\Debug\net8.0-windows\gui testing.csproj.GenerateResource.cache
+C:\Users\ligku\Documents\Coding\C#\gui testing\obj\Debug\net8.0-windows\gui testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ligku\Documents\Coding\C#\gui testing\obj\Debug\net8.0-windows\gui testing.AssemblyInfoInputs.cache
+C:\Users\ligku\Documents\Coding\C#\gui testing\obj\Debug\net8.0-windows\gui testing.AssemblyInfo.cs
+C:\Users\ligku\Documents\Coding\C#\gui testing\obj\Debug\net8.0-windows\gui testing.csproj.CoreCompileInputs.cache
+C:\Users\ligku\Documents\Coding\C#\gui testing\obj\Debug\net8.0-windows\gui testing.dll
+C:\Users\ligku\Documents\Coding\C#\gui testing\obj\Debug\net8.0-windows\refint\gui testing.dll
+C:\Users\ligku\Documents\Coding\C#\gui testing\obj\Debug\net8.0-windows\gui testing.pdb
+C:\Users\ligku\Documents\Coding\C#\gui testing\obj\Debug\net8.0-windows\gui testing.genruntimeconfig.cache
+C:\Users\ligku\Documents\Coding\C#\gui testing\obj\Debug\net8.0-windows\ref\gui testing.dll
